@@ -30,6 +30,10 @@ For any inquiries, feedback, or support, don't hesitate to reach us.
 Happy paper analysis and mind mapping!
 
 
+https://github.com/nhaouari/papersnap/assets/9850722/d288474f-e050-4153-9cf8-b5f3ef8822e1
+
+
+
 
 ## PAPERSNAPV1 Prompt
 ```md
