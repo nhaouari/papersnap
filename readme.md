@@ -3,7 +3,19 @@
 Welcome to the **PAPERSNAP** repository! Our primary goal is to facilitate the extraction of crucial information from research papers and organize it into a comprehensive mind map. To achieve this, we leverage a powerful language model named Claude, which has the capability to handle documents with up to 100,000 tokens.
 
 ### How to Use PAPERSNAP prompt:
+#### Using Poe
+1. **Create an Account:** To get started, you'll need to have an account on [Poe](https://poe.com).
 
+2. **Use PAPERSNAP bot:** [https://poe.com/PAPERSNAP](https://poe.com/PAPERSNAP)
+
+3. **Upload Your Paper:** Prepare the research paper you want to extract information from. You can either upload the paper as a PDF or copy and paste its text directly into poe's interface.
+
+4. **Generate the Mind Map:** After providing the necessary input, let PAPERSNAP bot work its magic! It will process the paper and generate a mind map containing the most important information in markdown.
+
+5. **View the Result:** Once PAPERSNAP bot has completed its analysis, you will be presented with the mind map in markdown. To visualize and explore this mind map in a user-friendly format, we recommend using [Markmap](https://markmap.js.org/repl).
+
+
+#### Using Claude
 1. **Create an Account:** To get started, you'll need to have an account on [Claude](https://claude.ai/). If you don't have one already, sign up—it's free and easy (USA,UK)!
 
 2. **Upload Your Paper:** Prepare the research paper you want to extract information from. You can either upload the paper as a PDF or copy and paste its text directly into Claude's interface.
@@ -13,6 +25,8 @@ Welcome to the **PAPERSNAP** repository! Our primary goal is to facilitate the e
 4. **Generate the Mind Map:** After providing the necessary input, let Claude work its magic! It will process the paper and generate a mind map containing the most important information in markdown.
 
 5. **View the Result:** Once Claude has completed its analysis, you will be presented with the mind map in markdown. To visualize and explore this mind map in a user-friendly format, we recommend using [Markmap](https://markmap.js.org/repl).
+
+
 
 ### Why Use PAPERSNAP:
 
